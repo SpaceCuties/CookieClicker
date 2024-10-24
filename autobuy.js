@@ -16,4 +16,5 @@ if(!AAutoBuy.isLoaded){
 		CCSE.postLoadHooks.push(AAutoBuy.launch);
 	}
 }
-//TODO: Add code that autosaves on Game.Reincarnate
+//TODO: Add dependency for CookieMonster
+//TODO: Make ENTER key buy building marked by CookieMonster as best
